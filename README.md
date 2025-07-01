@@ -19,6 +19,19 @@ This autumn, I'm excited to begin my **Computer Science studies at TU Wien**. My
 
 When I'm not coding, I volunteer as a **Rettungssanitäter** (paramedic), a role that has taught me the importance of precision, teamwork, and staying calm under pressure.
 
+### 🚀 What I'm Currently Working On
+
+At **Zuugle Services GmbH**, I'm focused on developing the **Diana GreenConnect Widget**. It's a modular JavaScript widget designed to help users plan sustainable transit connections for their activities. The goal is to make green travel planning seamless and accessible directly within any web application.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/86725bc6-2b4f-4439-b366-37bd23062792" alt="Diana GreenConnect Widget Preview" width="400"/>
+</p>
+
+
+We're building it to be highly configurable and easy to integrate, encouraging more people to choose public transport.
+
+> **[Check out the project repository: zuugle-services/DianaWidget](https://github.com/zuugle-services/DianaWidget)**
+
 ### 🛠️ My Tech Stack & Tools
 
 Here are some of the technologies and tools I enjoy working with:
