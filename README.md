@@ -21,11 +21,18 @@ When I'm not coding, I volunteer as a **Rettungssanitäter** (paramedic), a role
 
 ### 🚀 What I'm Currently Working On
 
-At **Zuugle Services GmbH**, I'm focused on developing the **Diana GreenConnect Widget**. It's a modular JavaScript widget designed to help users plan sustainable transit connections for their activities. The goal is to make green travel planning seamless and accessible directly within any web application.
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/86725bc6-2b4f-4439-b366-37bd23062792" alt="Diana GreenConnect Widget Preview" width="400"/>
-</p>
+<table style="border:none; border-collapse: collapse;">
+  <tr>
+    <td valign="top">
+      <p>At <strong>Zuugle Services GmbH</strong>, I'm focused on developing the <strong>Diana GreenConnect Widget</strong>. It's a modular JavaScript widget designed to help users plan sustainable transit connections for their activities. The goal is to make green travel planning seamless and accessible directly within any web application.</p>
+      <p>We're building it to be highly configurable and easy to integrate, encouraging more people to choose public transport.</p>
+      <p>> <strong><a href="https://github.com/zuugle-services/DianaWidget" target="_blank">Check out the project repository: zuugle-services/DianaWidget</a></strong></p>
+    </td>
+    <td width="400" align="center">
+      <img src="https://github.com/user-attachments/assets/86725bc6-2b4f-4439-b366-37bd23062792" alt="Diana GreenConnect Widget Preview" width="400"/>
+    </td>
+  </tr>
+</table>
 
 
 We're building it to be highly configurable and easy to integrate, encouraging more people to choose public transport.
