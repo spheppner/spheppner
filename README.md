@@ -76,9 +76,6 @@ I'm proud to be a two-time winner of the **Prix Ars Electronica U19 Sachpreis**.
 This project was my first major award-winning work, a website that demonstrated my early passion for web development and creative coding.
 
 ### 📫 Let's Connect!
-
-I'm always open to connecting with fellow developers, students, and tech enthusiasts. Feel free to reach out!
-
 <p>
     <a href="https://www.linkedin.com/in/simon-pablo-heppner" target="_blank">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
