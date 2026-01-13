@@ -1,15 +1,6 @@
 # Hi there, I'm Simon Heppner 👋
 
-<p align="center">
-  <a href="https://github.com/spheppner">
-    <img src="https://github-readme-stats.vercel.app/api?username=spheppner&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="Simon Heppner's GitHub Stats" />
-  </a>
-  <a href="https://github.com/spheppner">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spheppner&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</p>
-
-I'm a passionate developer from Austria, dedicated to using technology to build a greener, more sustainable future.
+I'm a developer from Austria, dedicated to using technology to build a greener, more sustainable future.
 
 ### 👨‍💻 About Me
 
